@@ -6,4 +6,4 @@
 
 ## Cevap
 
-![]([https://github.com/mkaganm/binary-search-odev/blob/main/image_2022-06-16_132158541.png](https://github.com/mkaganm/patika.dev-kodluyoruz.org/blob/main/binary-search-odev-main/binary-search-odev-main/image_2022-06-16_132158541.png))
+![](https://github.com/mkaganm/patika.dev-kodluyoruz.org/blob/main/binary-search-odev-main/binary-search-odev-main/image_2022-06-16_132158541.png)
